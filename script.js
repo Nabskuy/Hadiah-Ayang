@@ -301,7 +301,7 @@ const prizes = [
     "Voucher sushi tei 2x",
     "Voucher outfit 500k",
     "Ambil didompetku",
-    "600k"
+    "500k"
 ];
 
 
